@@ -1,0 +1,5 @@
+set solib-search-path ./obj/local/armeabi
+directory /home/optiklab/AndroidNDK/platforms/android-9/arch-arm/usr/include /home/optiklab/AndroidNDK/sources/android/native_app_glue /home/optiklab/AndroidNDK/sources/cxx-stl/stlport/stlport /home/optiklab/AndroidNDK/sources/cxx-stl//gabi++/include jni
+file ./obj/local/armeabi/app_process
+
+target remote :5039
