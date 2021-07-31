@@ -14,6 +14,7 @@ It was compiled in:
 To compile, please look into Android.mk and replace PATH variable like specified.
 
 I do not have screenshots from mobile at the moment, but this is only a port from my Windows version of this game and looks pretty similar. So, here is screenshots:
+
 ![1](https://optiklab.github.io/img/Asteroids.jpg)
 
 ![2](https://optiklab.github.io/img/Asteroids1.jpg)
